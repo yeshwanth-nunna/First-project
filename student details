@@ -1,0 +1,7 @@
+name="yeshwanth"
+college="aditya college of engineering and technology"
+branch="computer science and engineering"
+
+print(name)
+print(college)
+print(branch)
